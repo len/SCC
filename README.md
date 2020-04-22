@@ -1,7 +1,7 @@
 # SCC
 Single-Cycle Chords
 
-This program generates single-cycle waveforms for just intonation chords.
+This program generates single-cycle waveforms for some just intonation chords with sines and bandlimited square and saw waves.
 
 In equal temperament it is not possible to do this, because the ratios between the notes are irrational. In order to make short waveforms with more than one note that loop correctly (without clicks) you must use frequencies that are small ratios of each other, e.g. just intonation chords.
 
